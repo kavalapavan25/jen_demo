@@ -1,0 +1,13 @@
+button {
+  background: #4CAF50;  /* Green background */
+  color: white;         /* White text */
+  border: none;         /* Remove border */
+  padding: 10px 20px;   /* Spacing inside */
+  border-radius: 8px;   /* Rounded corners */
+  cursor: pointer;      /* Pointer on hover */
+  transition: 0.3s;     /* Smooth hover effect */
+}
+
+button:hover {
+  background: #45a049;  /* Darker green on hover */
+}
